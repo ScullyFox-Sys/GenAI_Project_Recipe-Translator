@@ -1,0 +1,19 @@
+.env
+.venv/
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+
+Recipe_Translator_Test.py
+Recipe_Translator_with_Confidence Score.py
+SQL_DB_Test.py
+Test_Recipe_2_Recipe.py
+DB_Builder.py
+
+culinary.db
+culinary_db_backup.db
+test.db
+culinary.sqbpro
+
+ingredients.csv
